@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  My Project 5
+//  Spelling Fun
 //
 //  Created by Rehan Muqeem on 16/12/20.
 //
